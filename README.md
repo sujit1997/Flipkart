@@ -3,6 +3,7 @@ This repository automates testing of the Flipkart website using Java, Selenium, 
 This GitHub repository contains an automation testing project for the Flipkart website. The project is developed using Java, Selenium WebDriver, and TestNG, providing a scalable and reliable framework for testing e-commerce applications.
 
 **Project Features**
+
 _**Comprehensive Test Suite:**_ Automates key functionalities of the Flipkart website, ensuring a seamless shopping experience.
 _**Selenium WebDriver:**_ Enables interaction with web elements and automates user actions such as searching, adding to cart, and checkout.
 _**TestNG Framework**_: Offers annotations, parallel test execution, and detailed reporting.
